@@ -1,2 +1,2 @@
 def example():
-    return 4
+    return 5
