@@ -4,5 +4,5 @@ import TestAssignment
 class Test(TestCase):
     def test_example(self):
         expected = 5
-        actual = TestAssignment.example()
-        self.assertEqual(expected,actual)
+        actual = 5
+        self.assertEqual(5,TestAssignment.example())
